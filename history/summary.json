@@ -4,19 +4,19 @@
     "url": "https://nefmolojten.anqou.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/nefmolojten.anqou.net.ico",
     "slug": "nefmolojten-anqou-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 384,
-    "timeWeek": 596,
-    "timeMonth": 623,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 654,
+    "timeDay": 893,
+    "timeWeek": 697,
+    "timeMonth": 647,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 29
     }
   }
 ]
