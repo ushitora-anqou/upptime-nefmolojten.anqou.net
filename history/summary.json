@@ -4,7 +4,7 @@
     "url": "https://nefmolojten.anqou.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/nefmolojten.anqou.net.ico",
     "slug": "nefmolojten-anqou-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "92.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 546,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2024-09-22": 0,
       "2024-09-21": 22,
       "2024-09-17": 327,
       "2024-09-16": 362,
