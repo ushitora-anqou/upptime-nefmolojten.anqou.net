@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nefmolojten.anqou.net.ico",
     "slug": "nefmolojten-anqou-net",
     "status": "up",
-    "uptime": "95.17%",
+    "uptime": "95.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.61%",
+    "uptimeYear": "93.88%",
     "time": 612,
-    "timeDay": 556,
-    "timeWeek": 609,
-    "timeMonth": 585,
+    "timeDay": 697,
+    "timeWeek": 627,
+    "timeMonth": 588,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-11-18": 15,
@@ -54,8 +54,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 1440
+      "2024-12-24": 1440
     }
   }
 ]
