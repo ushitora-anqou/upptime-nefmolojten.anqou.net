@@ -1,7 +1,7 @@
 url: https://nefmolojten.anqou.net/health
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2026-06-06T23:23:25.851Z
+status: down
+code: 502
+responseTime: 473
+lastUpdated: 2026-06-07T10:31:54.649Z
 startTime: 2024-01-17T11:16:17.661Z
 generator: Upptime <https://github.com/upptime/upptime>
